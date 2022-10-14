@@ -1,5 +1,5 @@
 ﻿int len = 10;
-string[] array = { "Hello", "2", "world", ":-)" };
+string[] array = { "1234", "1567", "-2", "computer science" };
 string[] newArr = new string[len];
 
 string[] ConvertArray(string[] arr){
